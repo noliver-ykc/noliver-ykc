@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **I'm am a pro at escape rooms 😉**
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/noliver-ykc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="noliver-ykc" height="30" width="40" /></a>
