@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I'm am a pro at escape rooms 😉**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=noliver-ykc&style=flat-square&color=8a8aeb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
