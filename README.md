@@ -14,6 +14,8 @@
 
 ![](https://komarev.com/ghpvc/?username=noliver-ykc&style=flat-square&color=8a8aeb)
 
+[![noliver-ykc's GitHub stats](https://github-readme-stats.vercel.app/api?username=noliver-ykc)](https://github.com/noliver-ykc/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/noliver-ykc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="noliver-ykc" height="30" width="40" /></a>
