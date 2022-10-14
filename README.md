@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **ruby on rails, clean UI**
+- 💬 Ask me about **ruby on rails, and beautiful front ends**
 
 - 📄 Know about my experiences [https://www.instagram.com/webdev.nicole/](https://www.instagram.com/webdev.nicole/)
 
