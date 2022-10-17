@@ -14,7 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=noliver-ykc&style=flat-square&color=8a8aeb)
 
-[![noliver-ykc's GitHub stats](https://github-readme-stats.vercel.app/api?username=noliver-ykc&count_private=true&theme=tokyonight)](https://github.com/noliver-ykc/github-readme-stats)
+[![noliver-ykc's GitHub stats](https://github-readme-stats.vercel.app/api?username=noliver-ykc&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
