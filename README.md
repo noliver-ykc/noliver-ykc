@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **various passion projects**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react** and **DSA**
 
 - 💬 Ask me about **ruby on rails, and beautiful front ends**
 
