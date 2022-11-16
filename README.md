@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **ruby on rails, and beautiful front ends**
 
-- 📄 Know about my experiences [https://www.instagram.com/webdev.nicole/](https://www.instagram.com/webdev.nicole/)
+- 📄 Know about my experiences [nicole-oliver.me](https://nicole-oliver.me) | [webdev.nicole](https://www.instagram.com/webdev.nicole/)
 
 - ⚡ Fun fact **I'm am a pro at escape rooms 😉**
 
