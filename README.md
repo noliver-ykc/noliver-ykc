@@ -14,7 +14,9 @@
 
 ![](https://komarev.com/ghpvc/?username=noliver-ykc&style=flat-square&color=8a8aeb)
 
-[![noliver-ykc's GitHub stats](https://github-readme-stats.vercel.app/api?username=noliver-ykc&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![noliver-ykc's GitHub stats](https://github-readme-stats.vercel.app/api?username=noliver-ykc&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=noliver-ykc&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <h3 align="left">Connect with me:</h3>
