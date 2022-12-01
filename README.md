@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react** and **DSA**
 
-- 💬 Ask me about **ruby on rails, and beautiful front ends**
+- 💬 Ask me about **beautiful front end**
 
 - 📄 Know about my experiences [nicole-oliver.me](https://nicole-oliver.me) | [webdev.nicole](https://www.instagram.com/webdev.nicole/)
 
