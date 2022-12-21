@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **swiftUI** and **typescript**
 
-- 💬 Ask me about **beautiful front end**
+- 💬 Ask me about **building beautiful front end**
 
 - 📄 Know about my experiences [nicole-oliver.me](https://nicole-oliver.me) | [webdev.nicole](https://www.instagram.com/webdev.nicole/)
 
