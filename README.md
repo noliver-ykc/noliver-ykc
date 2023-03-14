@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **various passion projects**
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **data structures and algorithims**
 
 - 💬 Ask me about **building beautiful front end**
 
