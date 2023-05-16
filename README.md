@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nicole</h1>
 <h3 align="center">A passionate frontend developer based in Tokyo, Japan.</h3>
 
-- 🔭 I’m currently working on **various passion projects**
+- 🔭 I’m currently working on **Build @Mercari Trainee Program**
 
 - 🌱 I’m currently learning **data structures and algorithims**
 
