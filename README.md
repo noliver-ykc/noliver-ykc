@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [nicole-oliver.me](https://nicole-oliver.me) | [webdev.nicole](https://www.instagram.com/webdev.nicole/)
 
-- ⚡ Fun fact **I'm am a pro at escape rooms 😉**
+- ⚡ Fun fact **I'm a pro at escape rooms 😉**
 
 ![](https://komarev.com/ghpvc/?username=noliver-ykc&style=flat-square&color=8a8aeb)
 
