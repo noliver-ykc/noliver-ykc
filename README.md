@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nicole</h1>
 <h3 align="center">A passionate frontend developer based in Tokyo, Japan.</h3>
 
-- 🔭 I’m currently working on **a react chat app for hospitals**
+- 🔭 I’m currently working on **an app to build playlists across platforms with friends**
 
 - 🌱 I’m currently learning **data structures and algorithims**
 
